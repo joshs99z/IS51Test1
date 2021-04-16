@@ -12,6 +12,32 @@ function2 will loop 10 times, each time doubling the amount and adding the amoun
 
 
 If the amounts are equal, we output to the user "Option1 and Option2 pay out the same"
-if option1 is the best we output to the user "Option1 is better"
-if option2 is the best we output to the user "Option2 is better"
+if option1 is the best we output to the user "Option 1 is better"
+if option2 is the best we output to the user "Option 2 is better"
+"""
+
+"""
+#option1
+ return 100 * 10
+
+#option2
+ amount = 1
+ list1 = []
+ loop 10 times 
+  add amount to list1 
+  amount *=2
+ sum = sum add all items in loop
+ return sum
+# main
+  var1 = option1
+  var2 = option2
+
+If var1 = var2,
+   "Option 1 and Option 2 pay out the same"
+if var1 < var2 
+   "Option 2  is better"
+else
+   "Option 1 is better"
+
+main
 """
